@@ -50,3 +50,9 @@ This repository contains a collection of Jupyter Notebooks showcasing diverse ma
 - **Objective**: Demonstrate forecasting methods applied to financial data.
 - **Tools**: Used the Prophet forecasting library.
 
+---
+
+### **8. Vanilla Transformer Translation**
+- **Description**:You need to **implement TransformerEncoder and TransformerDecoder with their layers** by your own. Using your TransformerEncoder and TransformerDecoder **build a Transformer model and train it** on the task of translation from English to French.
+- **Objective**: Learn the internal working mechanisms of Transformer more closely.  
+
