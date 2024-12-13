@@ -50,6 +50,3 @@ This repository contains a collection of Jupyter Notebooks showcasing diverse ma
 - **Objective**: Demonstrate forecasting methods applied to financial data.
 - **Tools**: Used the Prophet forecasting library.
 
----
-
-Each task includes references to the datasets used, implementation details, and visualization tools to ensure clarity and reproducibility. This repository is designed for hands-on learning, making it a valuable resource for beginners and practitioners in AI.
