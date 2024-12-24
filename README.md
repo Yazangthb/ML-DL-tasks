@@ -54,5 +54,9 @@ This repository contains a collection of Jupyter Notebooks showcasing diverse ma
 
 ### **8. Vanilla Transformer Translation**
 - **Description**:You need to **implement TransformerEncoder and TransformerDecoder with their layers** by your own. Using your TransformerEncoder and TransformerDecoder **build a Transformer model and train it** on the task of translation from English to French.
-- **Objective**: Learn the internal working mechanisms of Transformer more closely.  
+- **Objective**: Learn the internal working mechanisms of Transformer more closely.
+
+### **9. Diffusion Fine-tuning**
+- **Description**:You need to **fine-tune Diffusion model** by your own. Using your dataset **train your model** on the task of translation from text to images.
+- **Objective**: Learn to work and fine-tune diffusion models.  
 
